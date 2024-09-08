@@ -1,0 +1,8 @@
+---
+program: feedback_program
+inputs:
+  feedback1: 3
+  feedback2: 3
+  feedback3: 3
+expected_outputs:
+  avg_feedback: 9

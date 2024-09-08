@@ -4,6 +4,7 @@ authors = [""]
 
 [[programs]]
 path = "src/addition_simple.py"
+name = "addition_simple"
 prime_size = 128
 
 [[programs]]
@@ -96,4 +97,9 @@ prime_size = 128
 
 [[programs]]
 path = "src/voting_honest_2.py"
+prime_size = 128
+
+[[programs]]
+path = "src/feedback_program.py"
+name="feedback_program"
 prime_size = 128
